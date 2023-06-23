@@ -1,0 +1,3 @@
+dado -> rosa
+boneca -> amarela
+bola -> azul
